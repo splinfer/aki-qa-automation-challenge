@@ -1,0 +1,21 @@
+{
+  "name": "qa-automation-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest tests",
+    "test:dev": "jest test --watch",
+    "test:debug": "HEADLESS=false npm run test"
+  },
+  "author": "Javier Perez",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "jest-puppeteer": "^3.3.1",
+    "puppeteer": "^1.7.0"
+  },
+  "jest": {
+    "preset": "jest-puppeteer"
+  }
+}
