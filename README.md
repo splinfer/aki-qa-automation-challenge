@@ -16,7 +16,7 @@ Within this project you will find a test that opens a headless browser, enters t
 
 **Submit your test!**
 
-Send us an email to jperez@a.ki with the entire project (except for the `node_modules` folder) and we'll reach you out as soon as possible.
+Send us an email to jperez@a.ki and cm@a.ki with the entire project (except for the `node_modules` folder) and we'll reach you out as soon as possible.
 
 ## Testing Project
 
